@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grand75/Grand75.iml" filepath="$PROJECT_DIR$/Grand75/Grand75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KK/KK.iml" filepath="$PROJECT_DIR$/KK/KK.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Week 2/Week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 3/Week 3(Recursion and TimeComplexity).iml" filepath="$PROJECT_DIR$/Week 3/Week 3(Recursion and TimeComplexity).iml" />
     </modules>
   </component>
 </project>
