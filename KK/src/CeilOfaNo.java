@@ -5,6 +5,9 @@ public class CeilOfaNo {
         System.out.println(ans);
     }
     static int Ciel(int[] arr, int target){
+        if(target>arr[arr.length-1]){
+            return -1;
+        }
         int start =0;
         int end= arr.length-1;
         while (start<=end){
