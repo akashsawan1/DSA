@@ -1,7 +1,7 @@
 public class TestBinarySearch {
     public static void main(String[] args) {
         int[]  arr = {1,2,3,4,5,6,7,8};
-        int ans = BS(arr,);
+        int ans = BS(arr,5);
         System.out.println(ans);
     }
     static int BS(int[] arr, int target){
